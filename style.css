@@ -1,0 +1,39 @@
+*{
+	font-family:'Nunito';
+	padding:opx;
+	margin:opx;
+}
+
+    #DS p{
+		  background-color:#FF2E63;
+		  color:#EAEAEA;
+	     }
+		 
+	#CS>p{
+          background-color:#FF5722;
+		  color:#EEEEEE;
+	      }
+
+    #CS+p{
+    	  background-color:#FF5722;
+		  color:#EEEEEE;
+	     }
+
+    #AS~p{
+         background-color:#FFB534;
+		  color:#FBF6EE;
+	    }		  
+		 	
+     button {
+            padding: 10px 20px;
+            font-size: 16px;
+            background-color: #3498db;
+            color: #fff;
+            border: none;
+            cursor: pointer;
+            }
+			
+			
+     button:hover {
+            background-color: #2980b9;
+        }			
